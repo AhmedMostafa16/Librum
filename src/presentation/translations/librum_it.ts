@@ -74,7 +74,7 @@
         <translation>Questa Applicazione</translation>
     </message>
     <message>
-        <location filename="../settings/MAboutPage.qml" line="283"/>
+        <location filename="../settings/MAboutPage.qml" line="282"/>
         <source>Librum is here for everyone who just wants to enjoy a good book.
 We hope you have a great time using it! Feel free to leave us a rating and some feedback.</source>
         <translatorcomment>About last phrase: the correct term for feedback is &quot;riscontro&quot;, but it isn&apos;t very used, feedback is quite understandable.</translatorcomment>
@@ -1882,19 +1882,19 @@ Conferma la tua email cliccando il link che ti abbiamo inviato.</translation>
         <translation>Modifica scorciatoia</translation>
     </message>
     <message>
-        <location filename="../settings/shortcutsPage/MShortcutsPage.qml" line="106"/>
+        <location filename="../settings/shortcutsPage/MShortcutsPage.qml" line="110"/>
         <source>ACTION</source>
         <extracomment>Keep it capitalized</extracomment>
         <translation>AZIONE</translation>
     </message>
     <message>
-        <location filename="../settings/shortcutsPage/MShortcutsPage.qml" line="120"/>
+        <location filename="../settings/shortcutsPage/MShortcutsPage.qml" line="124"/>
         <source>SHORTCUTS</source>
         <extracomment>Keep it capitalized</extracomment>
         <translation>SCORCIATOIE</translation>
     </message>
     <message>
-        <location filename="../settings/shortcutsPage/MShortcutsPage.qml" line="135"/>
+        <location filename="../settings/shortcutsPage/MShortcutsPage.qml" line="139"/>
         <source>Search for shortcuts</source>
         <translation>Cerca per scorciatoie</translation>
     </message>
@@ -2185,7 +2185,7 @@ Amiamo lavorare su progetti divertenti, supportare la comunità e cercare di ren
         <translation>La tua versione corrente è:</translation>
     </message>
     <message>
-        <location filename="../settings/updatesPage/MUpToDate.qml" line="84"/>
+        <location filename="../settings/updatesPage/MUpToDate.qml" line="85"/>
         <source>See our latest changes at:</source>
         <translation>Vedi le ultime modifiche :</translation>
     </message>
@@ -2308,7 +2308,7 @@ Amiamo lavorare su progetti divertenti, supportare la comunità e cercare di ren
 <context>
     <name>main</name>
     <message>
-        <location filename="../main.qml" line="31"/>
+        <location filename="../main.qml" line="32"/>
         <source>Librum - Your ebook reader</source>
         <translation>Librum - Il tuo lettore ebook</translation>
     </message>

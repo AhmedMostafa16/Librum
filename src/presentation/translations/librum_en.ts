@@ -70,7 +70,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../settings/MAboutPage.qml" line="283"/>
+        <location filename="../settings/MAboutPage.qml" line="282"/>
         <source>Librum is here for everyone who just wants to enjoy a good book.
 We hope you have a great time using it! Feel free to leave us a rating and some feedback.</source>
         <translation type="unfinished"></translation>
@@ -1826,19 +1826,19 @@ Confirm your email by clicking the link we sent you.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../settings/shortcutsPage/MShortcutsPage.qml" line="106"/>
+        <location filename="../settings/shortcutsPage/MShortcutsPage.qml" line="110"/>
         <source>ACTION</source>
         <extracomment>Keep it capitalized</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../settings/shortcutsPage/MShortcutsPage.qml" line="120"/>
+        <location filename="../settings/shortcutsPage/MShortcutsPage.qml" line="124"/>
         <source>SHORTCUTS</source>
         <extracomment>Keep it capitalized</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../settings/shortcutsPage/MShortcutsPage.qml" line="135"/>
+        <location filename="../settings/shortcutsPage/MShortcutsPage.qml" line="139"/>
         <source>Search for shortcuts</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2102,7 +2102,7 @@ working on fun projects, supporting our community and trying to make the world a
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../settings/updatesPage/MUpToDate.qml" line="84"/>
+        <location filename="../settings/updatesPage/MUpToDate.qml" line="85"/>
         <source>See our latest changes at:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2225,7 +2225,7 @@ working on fun projects, supporting our community and trying to make the world a
 <context>
     <name>main</name>
     <message>
-        <location filename="../main.qml" line="31"/>
+        <location filename="../main.qml" line="32"/>
         <source>Librum - Your ebook reader</source>
         <translation type="unfinished"></translation>
     </message>

@@ -70,7 +70,7 @@
         <translation>Dieses Programm</translation>
     </message>
     <message>
-        <location filename="../settings/MAboutPage.qml" line="283"/>
+        <location filename="../settings/MAboutPage.qml" line="282"/>
         <source>Librum is here for everyone who just wants to enjoy a good book.
 We hope you have a great time using it! Feel free to leave us a rating and some feedback.</source>
         <translation>Librum ist hier für alle, die einfach nur ein gutes Buch genießen möchten.
@@ -84,10 +84,6 @@ Wir hoffen, dass du eine tolle Zeit hast! Lass uns doch eine Bewertung da.</tran
         <source>I accept the</source>
         <extracomment>Make sure to translate the following words together to make a logical sentence</extracomment>
         <translation>Ich akzeptiere die</translation>
-    </message>
-    <message>
-        <source> Terms of Service</source>
-        <translation type="vanished">AGB</translation>
     </message>
     <message>
         <location filename="../registerPage/MAcceptPolicy.qml" line="50"/>
@@ -316,10 +312,6 @@ Wir hoffen, dass du eine tolle Zeit hast! Lass uns doch eine Bewertung da.</tran
         <source>Add a tag...</source>
         <translation>Füge einen Tag hinzu...</translation>
     </message>
-    <message>
-        <source>ADD</source>
-        <translation type="vanished">ADD</translation>
-    </message>
 </context>
 <context>
     <name>MAddTagBoxPopup</name>
@@ -377,18 +369,6 @@ Wir hoffen, dass du eine tolle Zeit hast! Lass uns doch eine Bewertung da.</tran
         <translation>Hell</translation>
     </message>
     <message>
-        <source>Page Color Mode</source>
-        <translation type="vanished">Seiten Farben Modus</translation>
-    </message>
-    <message>
-        <source>Normal</source>
-        <translation type="vanished">Normal</translation>
-    </message>
-    <message>
-        <source>Inverted</source>
-        <translation type="vanished">Invers</translation>
-    </message>
-    <message>
         <location filename="../settings/MAppearancePage.qml" line="144"/>
         <source>Language</source>
         <translation>Sprache</translation>
@@ -407,50 +387,6 @@ Wir hoffen, dass du eine tolle Zeit hast! Lass uns doch eine Bewertung da.</tran
         <location filename="../settings/MAppearancePage.qml" line="255"/>
         <source>Display book title in titlebar</source>
         <translation>Den Buchtitel in der Titelleiste anzeigen</translation>
-    </message>
-    <message>
-        <source>Layout direction</source>
-        <translation type="vanished">Layoutrichtung</translation>
-    </message>
-    <message>
-        <source>Vertical</source>
-        <translation type="vanished">Vertikal</translation>
-    </message>
-    <message>
-        <source>Horizontal</source>
-        <translation type="vanished">Horizontal</translation>
-    </message>
-    <message>
-        <source>Display mode</source>
-        <translation type="vanished">Darstellungs Modus</translation>
-    </message>
-    <message>
-        <source>Single Page</source>
-        <translation type="vanished">Einzelseite</translation>
-    </message>
-    <message>
-        <source>Double Page</source>
-        <translation type="vanished">Doppelseite</translation>
-    </message>
-    <message>
-        <source>Page transition</source>
-        <translation type="vanished">Seitenübergang</translation>
-    </message>
-    <message>
-        <source>Instant</source>
-        <translation type="vanished">Sofort</translation>
-    </message>
-    <message>
-        <source>Fading</source>
-        <translation type="vanished">Verblassen</translation>
-    </message>
-    <message>
-        <source>Swipe</source>
-        <translation type="vanished">Wischen</translation>
-    </message>
-    <message>
-        <source>Swap</source>
-        <translation type="vanished">Tauschen</translation>
     </message>
     <message>
         <location filename="../settings/MAppearancePage.qml" line="280"/>
@@ -743,22 +679,6 @@ niemand wird es wiederherstellen können!</translation>
 </context>
 <context>
     <name>MBookMultiSelectRightClickPopup</name>
-    <message>
-        <source>Save to files</source>
-        <translation type="obsolete">Datei speichern</translation>
-    </message>
-    <message>
-        <source>Read book</source>
-        <translation type="obsolete">Buch lesen</translation>
-    </message>
-    <message>
-        <source>Book details</source>
-        <translation type="obsolete">Buch details</translation>
-    </message>
-    <message>
-        <source>Manage tags</source>
-        <translation type="obsolete">Tags verwalten</translation>
-    </message>
     <message>
         <location filename="../homePage/MBookMultiSelectRightClickPopup.qml" line="25"/>
         <source>Mark as read</source>
@@ -1307,10 +1227,6 @@ niemand wird es wiederherstellen können!</translation>
         <source>Email sent! Keep an eye on your inbox</source>
         <translation>Email gesendet! Behalte dein Postfach im Auge</translation>
     </message>
-    <message>
-        <source>Email sent! Keep an eye on your inbox.</source>
-        <translation type="vanished">Email gesendet! Behalte dein Postfach im Auge</translation>
-    </message>
 </context>
 <context>
     <name>MFreeBook</name>
@@ -1341,63 +1257,6 @@ niemand wird es wiederherstellen können!</translation>
         <location filename="../freeBooksPage/MFreeBooksPage.qml" line="82"/>
         <source>Choose from over 70,000 books</source>
         <translation>Wähle aus über 70.000 Büchern</translation>
-    </message>
-</context>
-<context>
-    <name>MGeneralSettingsPage</name>
-    <message>
-        <source>General settings</source>
-        <translation type="vanished">Systemeinstellungen</translation>
-    </message>
-    <message>
-        <source>Change the way Librum works</source>
-        <translation type="vanished">Ändere die Arbeitsweise von Librum</translation>
-    </message>
-    <message>
-        <source>Restore Defaults</source>
-        <translation type="vanished">Zurücksetzen</translation>
-    </message>
-    <message>
-        <source>Books</source>
-        <translation type="vanished">Bücher</translation>
-    </message>
-    <message>
-        <source>Open books after creation</source>
-        <translation type="vanished">Öffne Bücher nach Erstellung</translation>
-    </message>
-    <message>
-        <source>Behavior</source>
-        <translation type="obsolete">Verhalten</translation>
-    </message>
-    <message>
-        <source>Cursor mode</source>
-        <translation type="obsolete">Mauszeiger-Modus</translation>
-    </message>
-    <message>
-        <source>Hidden after delay</source>
-        <translation type="obsolete">Versteckt nach Verzögerung</translation>
-    </message>
-    <message>
-        <source>Always visible</source>
-        <translation type="obsolete">Immer sichtbar</translation>
-    </message>
-    <message>
-        <source>Reset settings?</source>
-        <translation type="vanished">Zurücksetzen?</translation>
-    </message>
-    <message>
-        <source>Resetting your settings is a permanent action, there
- will be no way to restore them!</source>
-        <translation type="vanished">Einstellungen zurückzusetzen ist eine endgültige Aktion,
-es gibt keine Möglichkeit sie wiederherzustellen!</translation>
-    </message>
-    <message>
-        <source>No, Keep</source>
-        <translation type="vanished">Nein, behalte</translation>
-    </message>
-    <message>
-        <source>Yes, Reset</source>
-        <translation type="vanished">Ja, zurücksetzen</translation>
     </message>
 </context>
 <context>
@@ -1721,29 +1580,9 @@ Lösche alte Bücher um Speicherplatzu freizugeben oder upgrade deinen Account.<
 <context>
     <name>MReadingOptionsPopup</name>
     <message>
-        <source>Read out (TTS)</source>
-        <translation type="vanished">Laut lesen (TTS)</translation>
-    </message>
-    <message>
-        <source>Continuous pages</source>
-        <translation type="vanished">Kontinuierliche Seiten</translation>
-    </message>
-    <message>
-        <source>Display vertically</source>
-        <translation type="vanished">Vertikal anzeigen</translation>
-    </message>
-    <message>
         <location filename="../readingPage/readingToolbar/MReadingOptionsPopup.qml" line="118"/>
         <source>Invert colors</source>
         <translation>Farben umkehren</translation>
-    </message>
-    <message>
-        <source>Normal</source>
-        <translation type="vanished">Normal</translation>
-    </message>
-    <message>
-        <source>Inverted</source>
-        <translation type="vanished">Invers</translation>
     </message>
     <message>
         <location filename="../readingPage/readingToolbar/MReadingOptionsPopup.qml" line="147"/>
@@ -1904,10 +1743,6 @@ Bestätige deine E-Mail, indem du auf den von uns gesendeten Link klickst.</tran
 <context>
     <name>MSearchButton</name>
     <message>
-        <source>Search for Book</source>
-        <translation type="vanished">Suche nach Buch</translation>
-    </message>
-    <message>
         <location filename="../modules/CustomComponents/buttons/MSearchButton.qml" line="14"/>
         <source>Search for books</source>
         <translation>Suche nach Büchern</translation>
@@ -2020,10 +1855,6 @@ Bestätige deine E-Mail, indem du auf den von uns gesendeten Link klickst.</tran
         <translation>Updates</translation>
     </message>
     <message>
-        <source>General Settings</source>
-        <translation type="vanished">Systemeinstellungen</translation>
-    </message>
-    <message>
         <location filename="../settings/settingsSidebar/MSettingsSidebar.qml" line="166"/>
         <source>USER &amp; ACCOUNT</source>
         <extracomment>Keep it capitalized</extracomment>
@@ -2071,19 +1902,19 @@ Bestätige deine E-Mail, indem du auf den von uns gesendeten Link klickst.</tran
         <translation>Tastenkürzel bearbeiten</translation>
     </message>
     <message>
-        <location filename="../settings/shortcutsPage/MShortcutsPage.qml" line="106"/>
+        <location filename="../settings/shortcutsPage/MShortcutsPage.qml" line="110"/>
         <source>ACTION</source>
         <extracomment>Keep it capitalized</extracomment>
         <translation>AKTION</translation>
     </message>
     <message>
-        <location filename="../settings/shortcutsPage/MShortcutsPage.qml" line="120"/>
+        <location filename="../settings/shortcutsPage/MShortcutsPage.qml" line="124"/>
         <source>SHORTCUTS</source>
         <extracomment>Keep it capitalized</extracomment>
         <translation>TASTENKÜRZEL</translation>
     </message>
     <message>
-        <location filename="../settings/shortcutsPage/MShortcutsPage.qml" line="135"/>
+        <location filename="../settings/shortcutsPage/MShortcutsPage.qml" line="139"/>
         <source>Search for shortcuts</source>
         <translation>Suche nach Tastenkürzel</translation>
     </message>
@@ -2118,10 +1949,6 @@ Bestätige deine E-Mail, indem du auf den von uns gesendeten Link klickst.</tran
 </context>
 <context>
     <name>MSortByButton</name>
-    <message>
-        <source>Sort by</source>
-        <translation type="vanished">Sortieren nach</translation>
-    </message>
     <message>
         <location filename="../homePage/toolbar/sortByButton/MSortByButton.qml" line="46"/>
         <source>Sort</source>
@@ -2378,7 +2205,7 @@ an Projekten zu arbeiten, unserer Community zu helfen und versuchen, die Welt zu
         <translation>Deine aktuelle verson ist:</translation>
     </message>
     <message>
-        <location filename="../settings/updatesPage/MUpToDate.qml" line="84"/>
+        <location filename="../settings/updatesPage/MUpToDate.qml" line="85"/>
         <source>See our latest changes at:</source>
         <translation>Siehe unsere letzten Änderungen unter:</translation>
     </message>
@@ -2501,7 +2328,7 @@ an Projekten zu arbeiten, unserer Community zu helfen und versuchen, die Welt zu
 <context>
     <name>main</name>
     <message>
-        <location filename="../main.qml" line="31"/>
+        <location filename="../main.qml" line="32"/>
         <source>Librum - Your ebook reader</source>
         <translation>Librum - Dein e-Buch leser</translation>
     </message>

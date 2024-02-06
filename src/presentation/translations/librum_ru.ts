@@ -70,7 +70,7 @@
         <translation>Это приложение</translation>
     </message>
     <message>
-        <location filename="../settings/MAboutPage.qml" line="283"/>
+        <location filename="../settings/MAboutPage.qml" line="282"/>
         <source>Librum is here for everyone who just wants to enjoy a good book.
 We hope you have a great time using it! Feel free to leave us a rating and some feedback.</source>
         <translation>Librum создан для тех, кто просто хочет насладиться хорошей книгой.
@@ -369,18 +369,6 @@ We hope you have a great time using it! Feel free to leave us a rating and some 
         <translation>Светлая</translation>
     </message>
     <message>
-        <source>Page Color Mode</source>
-        <translation type="vanished">Цветовой Режим Страницы</translation>
-    </message>
-    <message>
-        <source>Normal</source>
-        <translation type="vanished">Нормальный</translation>
-    </message>
-    <message>
-        <source>Inverted</source>
-        <translation type="vanished">Инвертированный</translation>
-    </message>
-    <message>
         <location filename="../settings/MAppearancePage.qml" line="144"/>
         <source>Language</source>
         <translation>Язык</translation>
@@ -399,50 +387,6 @@ We hope you have a great time using it! Feel free to leave us a rating and some 
         <location filename="../settings/MAppearancePage.qml" line="255"/>
         <source>Display book title in titlebar</source>
         <translation>Отображать название книги в строке с названием</translation>
-    </message>
-    <message>
-        <source>Layout direction</source>
-        <translation type="vanished">Направление макета</translation>
-    </message>
-    <message>
-        <source>Vertical</source>
-        <translation type="vanished">Вертикально</translation>
-    </message>
-    <message>
-        <source>Horizontal</source>
-        <translation type="vanished">Горизонтально</translation>
-    </message>
-    <message>
-        <source>Display mode</source>
-        <translation type="vanished">Режим отображения</translation>
-    </message>
-    <message>
-        <source>Single Page</source>
-        <translation type="vanished">Одна страница</translation>
-    </message>
-    <message>
-        <source>Double Page</source>
-        <translation type="vanished">Разворот</translation>
-    </message>
-    <message>
-        <source>Page transition</source>
-        <translation type="vanished">Переход страницы</translation>
-    </message>
-    <message>
-        <source>Instant</source>
-        <translation type="vanished">Мнгновенно</translation>
-    </message>
-    <message>
-        <source>Fading</source>
-        <translation type="vanished">Исчезающий</translation>
-    </message>
-    <message>
-        <source>Swipe</source>
-        <translation type="vanished">Перелистывание</translation>
-    </message>
-    <message>
-        <source>Swap</source>
-        <translation type="vanished">Замена</translation>
     </message>
     <message>
         <location filename="../settings/MAppearancePage.qml" line="280"/>
@@ -716,18 +660,6 @@ Either you are offline, or your storage is full.</source>
 </context>
 <context>
     <name>MBookMultiSelectRightClickPopup</name>
-    <message>
-        <source>Save to files</source>
-        <translation type="obsolete">Сохранить</translation>
-    </message>
-    <message>
-        <source>Read book</source>
-        <translation type="obsolete">Читать</translation>
-    </message>
-    <message>
-        <source>Manage tags</source>
-        <translation type="obsolete">Теги</translation>
-    </message>
     <message>
         <location filename="../homePage/MBookMultiSelectRightClickPopup.qml" line="25"/>
         <source>Mark as read</source>
@@ -1306,47 +1238,6 @@ Either you are offline, or your storage is full.</source>
         <location filename="../freeBooksPage/MFreeBooksPage.qml" line="82"/>
         <source>Choose from over 70,000 books</source>
         <translation>Выбирайте среди более 70,000 книг</translation>
-    </message>
-</context>
-<context>
-    <name>MGeneralSettingsPage</name>
-    <message>
-        <source>General settings</source>
-        <translation type="vanished">Общие настройки</translation>
-    </message>
-    <message>
-        <source>Change the way Librum works</source>
-        <translation type="vanished">Измените то, как работает Librum</translation>
-    </message>
-    <message>
-        <source>Restore Defaults</source>
-        <translation type="vanished">Сбросить по-умолчанию</translation>
-    </message>
-    <message>
-        <source>Books</source>
-        <translation type="vanished">Книги</translation>
-    </message>
-    <message>
-        <source>Open books after creation</source>
-        <translation type="vanished">Открывать книги после создания</translation>
-    </message>
-    <message>
-        <source>Reset settings?</source>
-        <translation type="vanished">Сбросить настройки?</translation>
-    </message>
-    <message>
-        <source>Resetting your settings is a permanent action, there
- will be no way to restore them!</source>
-        <translation type="vanished">Сброс настроек необратим,
-вернуть их нельзя!</translation>
-    </message>
-    <message>
-        <source>No, Keep</source>
-        <translation type="vanished">Нет, оставить</translation>
-    </message>
-    <message>
-        <source>Yes, Reset</source>
-        <translation type="vanished">Да, сбросить</translation>
     </message>
 </context>
 <context>
@@ -1992,19 +1883,19 @@ Confirm your email by clicking the link we sent you.</source>
         <translation>Изменить сочетания клавиш</translation>
     </message>
     <message>
-        <location filename="../settings/shortcutsPage/MShortcutsPage.qml" line="106"/>
+        <location filename="../settings/shortcutsPage/MShortcutsPage.qml" line="110"/>
         <source>ACTION</source>
         <extracomment>Keep it capitalized</extracomment>
         <translation>ДЕЙСТВИЕ</translation>
     </message>
     <message>
-        <location filename="../settings/shortcutsPage/MShortcutsPage.qml" line="120"/>
+        <location filename="../settings/shortcutsPage/MShortcutsPage.qml" line="124"/>
         <source>SHORTCUTS</source>
         <extracomment>Keep it capitalized</extracomment>
         <translation>СОЧЕТАНИЯ КЛАВИШ</translation>
     </message>
     <message>
-        <location filename="../settings/shortcutsPage/MShortcutsPage.qml" line="135"/>
+        <location filename="../settings/shortcutsPage/MShortcutsPage.qml" line="139"/>
         <source>Search for shortcuts</source>
         <translation>Искать сочетания клавиш</translation>
     </message>
@@ -2294,7 +2185,7 @@ working on fun projects, supporting our community and trying to make the world a
         <translation>Ваша текущая версия:</translation>
     </message>
     <message>
-        <location filename="../settings/updatesPage/MUpToDate.qml" line="84"/>
+        <location filename="../settings/updatesPage/MUpToDate.qml" line="85"/>
         <source>See our latest changes at:</source>
         <translation>Посмотрите последние изменения здесь:</translation>
     </message>
@@ -2417,7 +2308,7 @@ working on fun projects, supporting our community and trying to make the world a
 <context>
     <name>main</name>
     <message>
-        <location filename="../main.qml" line="31"/>
+        <location filename="../main.qml" line="32"/>
         <source>Librum - Your ebook reader</source>
         <translation>Librum - Ваше приложение для чтения электронных книг</translation>
     </message>

@@ -70,7 +70,7 @@
         <translation>此应用</translation>
     </message>
     <message>
-        <location filename="../settings/MAboutPage.qml" line="283"/>
+        <location filename="../settings/MAboutPage.qml" line="282"/>
         <source>Librum is here for everyone who just wants to enjoy a good book.
 We hope you have a great time using it! Feel free to leave us a rating and some feedback.</source>
         <translation>Librum 为每个想享受一本好书的人而存在。
@@ -367,18 +367,6 @@ We hope you have a great time using it! Feel free to leave us a rating and some 
         <location filename="../settings/MAppearancePage.qml" line="129"/>
         <source>Light</source>
         <translation>明亮</translation>
-    </message>
-    <message>
-        <source>Page Color Mode</source>
-        <translation type="vanished">页面颜色模式</translation>
-    </message>
-    <message>
-        <source>Normal</source>
-        <translation type="vanished">常规</translation>
-    </message>
-    <message>
-        <source>Inverted</source>
-        <translation type="vanished">反转</translation>
     </message>
     <message>
         <location filename="../settings/MAppearancePage.qml" line="144"/>
@@ -1860,19 +1848,19 @@ Confirm your email by clicking the link we sent you.</source>
         <translation>编辑快捷键</translation>
     </message>
     <message>
-        <location filename="../settings/shortcutsPage/MShortcutsPage.qml" line="106"/>
+        <location filename="../settings/shortcutsPage/MShortcutsPage.qml" line="110"/>
         <source>ACTION</source>
         <extracomment>Keep it capitalized</extracomment>
         <translation>动作</translation>
     </message>
     <message>
-        <location filename="../settings/shortcutsPage/MShortcutsPage.qml" line="120"/>
+        <location filename="../settings/shortcutsPage/MShortcutsPage.qml" line="124"/>
         <source>SHORTCUTS</source>
         <extracomment>Keep it capitalized</extracomment>
         <translation>快捷键</translation>
     </message>
     <message>
-        <location filename="../settings/shortcutsPage/MShortcutsPage.qml" line="135"/>
+        <location filename="../settings/shortcutsPage/MShortcutsPage.qml" line="139"/>
         <source>Search for shortcuts</source>
         <translation>搜索快捷键</translation>
     </message>
@@ -2161,7 +2149,7 @@ working on fun projects, supporting our community and trying to make the world a
         <translation>您当前的版本为：</translation>
     </message>
     <message>
-        <location filename="../settings/updatesPage/MUpToDate.qml" line="84"/>
+        <location filename="../settings/updatesPage/MUpToDate.qml" line="85"/>
         <source>See our latest changes at:</source>
         <translation>查看最新变化：</translation>
     </message>
@@ -2284,7 +2272,7 @@ working on fun projects, supporting our community and trying to make the world a
 <context>
     <name>main</name>
     <message>
-        <location filename="../main.qml" line="31"/>
+        <location filename="../main.qml" line="32"/>
         <source>Librum - Your ebook reader</source>
         <translation>Librum - 电子书阅读器</translation>
     </message>
