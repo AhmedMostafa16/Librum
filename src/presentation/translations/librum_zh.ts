@@ -1849,17 +1849,20 @@ Confirm your email by clicking the link we sent you.</source>
     </message>
     <message>
         <location filename="../settings/shortcutsPage/MShortcutsPage.qml" line="110"/>
+        <location filename="../settings/shortcutsPage/MShortcutsPage.qml" line="110"/>
         <source>ACTION</source>
         <extracomment>Keep it capitalized</extracomment>
         <translation>动作</translation>
     </message>
     <message>
         <location filename="../settings/shortcutsPage/MShortcutsPage.qml" line="124"/>
+        <location filename="../settings/shortcutsPage/MShortcutsPage.qml" line="124"/>
         <source>SHORTCUTS</source>
         <extracomment>Keep it capitalized</extracomment>
         <translation>快捷键</translation>
     </message>
     <message>
+        <location filename="../settings/shortcutsPage/MShortcutsPage.qml" line="139"/>
         <location filename="../settings/shortcutsPage/MShortcutsPage.qml" line="139"/>
         <source>Search for shortcuts</source>
         <translation>搜索快捷键</translation>
@@ -2150,6 +2153,7 @@ working on fun projects, supporting our community and trying to make the world a
     </message>
     <message>
         <location filename="../settings/updatesPage/MUpToDate.qml" line="85"/>
+        <location filename="../settings/updatesPage/MUpToDate.qml" line="85"/>
         <source>See our latest changes at:</source>
         <translation>查看最新变化：</translation>
     </message>
@@ -2272,6 +2276,7 @@ working on fun projects, supporting our community and trying to make the world a
 <context>
     <name>main</name>
     <message>
+        <location filename="../main.qml" line="32"/>
         <location filename="../main.qml" line="32"/>
         <source>Librum - Your ebook reader</source>
         <translation>Librum - 电子书阅读器</translation>

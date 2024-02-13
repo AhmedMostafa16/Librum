@@ -1903,17 +1903,20 @@ Bestätige deine E-Mail, indem du auf den von uns gesendeten Link klickst.</tran
     </message>
     <message>
         <location filename="../settings/shortcutsPage/MShortcutsPage.qml" line="110"/>
+        <location filename="../settings/shortcutsPage/MShortcutsPage.qml" line="110"/>
         <source>ACTION</source>
         <extracomment>Keep it capitalized</extracomment>
         <translation>AKTION</translation>
     </message>
     <message>
         <location filename="../settings/shortcutsPage/MShortcutsPage.qml" line="124"/>
+        <location filename="../settings/shortcutsPage/MShortcutsPage.qml" line="124"/>
         <source>SHORTCUTS</source>
         <extracomment>Keep it capitalized</extracomment>
         <translation>TASTENKÜRZEL</translation>
     </message>
     <message>
+        <location filename="../settings/shortcutsPage/MShortcutsPage.qml" line="139"/>
         <location filename="../settings/shortcutsPage/MShortcutsPage.qml" line="139"/>
         <source>Search for shortcuts</source>
         <translation>Suche nach Tastenkürzel</translation>
@@ -2206,6 +2209,7 @@ an Projekten zu arbeiten, unserer Community zu helfen und versuchen, die Welt zu
     </message>
     <message>
         <location filename="../settings/updatesPage/MUpToDate.qml" line="85"/>
+        <location filename="../settings/updatesPage/MUpToDate.qml" line="85"/>
         <source>See our latest changes at:</source>
         <translation>Siehe unsere letzten Änderungen unter:</translation>
     </message>
@@ -2328,6 +2332,7 @@ an Projekten zu arbeiten, unserer Community zu helfen und versuchen, die Welt zu
 <context>
     <name>main</name>
     <message>
+        <location filename="../main.qml" line="32"/>
         <location filename="../main.qml" line="32"/>
         <source>Librum - Your ebook reader</source>
         <translation>Librum - Dein e-Buch leser</translation>

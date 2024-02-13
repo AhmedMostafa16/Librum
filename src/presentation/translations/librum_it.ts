@@ -1883,17 +1883,20 @@ Conferma la tua email cliccando il link che ti abbiamo inviato.</translation>
     </message>
     <message>
         <location filename="../settings/shortcutsPage/MShortcutsPage.qml" line="110"/>
+        <location filename="../settings/shortcutsPage/MShortcutsPage.qml" line="110"/>
         <source>ACTION</source>
         <extracomment>Keep it capitalized</extracomment>
         <translation>AZIONE</translation>
     </message>
     <message>
         <location filename="../settings/shortcutsPage/MShortcutsPage.qml" line="124"/>
+        <location filename="../settings/shortcutsPage/MShortcutsPage.qml" line="124"/>
         <source>SHORTCUTS</source>
         <extracomment>Keep it capitalized</extracomment>
         <translation>SCORCIATOIE</translation>
     </message>
     <message>
+        <location filename="../settings/shortcutsPage/MShortcutsPage.qml" line="139"/>
         <location filename="../settings/shortcutsPage/MShortcutsPage.qml" line="139"/>
         <source>Search for shortcuts</source>
         <translation>Cerca per scorciatoie</translation>
@@ -2186,6 +2189,7 @@ Amiamo lavorare su progetti divertenti, supportare la comunità e cercare di ren
     </message>
     <message>
         <location filename="../settings/updatesPage/MUpToDate.qml" line="85"/>
+        <location filename="../settings/updatesPage/MUpToDate.qml" line="85"/>
         <source>See our latest changes at:</source>
         <translation>Vedi le ultime modifiche :</translation>
     </message>
@@ -2308,6 +2312,7 @@ Amiamo lavorare su progetti divertenti, supportare la comunità e cercare di ren
 <context>
     <name>main</name>
     <message>
+        <location filename="../main.qml" line="32"/>
         <location filename="../main.qml" line="32"/>
         <source>Librum - Your ebook reader</source>
         <translation>Librum - Il tuo lettore ebook</translation>
