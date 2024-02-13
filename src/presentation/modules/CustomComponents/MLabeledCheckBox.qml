@@ -32,8 +32,12 @@ Item {
     implicitWidth: 100
     implicitHeight: layout.height
 
+    LayoutMirroring.enabled: baseRoot.rightAlign
+    LayoutMirroring.childrenInherit: true
+
     RowLayout {
         id: layout
+        width: parent.width
         spacing: root.spacing
 
         MCheckBox {
@@ -58,7 +62,8 @@ Item {
                 width: text.implicitWidth
                 height: text.implicitHeight
                 cursorShape: Qt.PointingHandCursor
-
+                anchors.fill: parent
+                
                 onClicked: {
                     checkBox.toggle()
                     root.clicked()
